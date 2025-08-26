@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:diamond_ore",
+    "scavengerhr_mvao:dormant_molten_diamond",
+    "scavengerhr_mvao:active_molten_diamond"
+  ]
+}

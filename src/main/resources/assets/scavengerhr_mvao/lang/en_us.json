@@ -1,0 +1,14 @@
+{
+  "block.scavengerhr_mvao.active_molten_diamond": "Active Molten Diamond",
+  "block.scavengerhr_mvao.dormant_molten_diamond": "Dormant Molten Diamond",
+  "block.scavengerhr_mvao.active_molten_sulfur": "Active Molten Sulfur",
+  "block.scavengerhr_mvao.dormant_molten_sulfur": "Dormant Molten Sulfur",
+
+  "scavengerhr_mvao.configuration.title": "ScavengerHR: Molten Vents Add-On Configs",
+  "scavengerhr_mvao.configuration.section.scavengerhr_mvao.common.toml": "ScavengerHR: Molten Vents Add-On Configs",
+  "scavengerhr_mvao.configuration.section.scavengerhr_mvao.common.toml.title": "ScavengerHR: Molten Vents Add-On Configs",
+  "scavengerhr_mvao.configuration.items": "Item List",
+  "scavengerhr_mvao.configuration.logDirtBlock": "Log Dirt Block",
+  "scavengerhr_mvao.configuration.magicNumberIntroduction": "Magic Number Text",
+  "scavengerhr_mvao.configuration.magicNumber": "Magic Number"
+}
