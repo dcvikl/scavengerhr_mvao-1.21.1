@@ -1,5 +1,5 @@
 {
-  "type": "molten_vents:molten_vent",
+  "type": "scavengerhr_mvao:molten_vent",
   "config": {
     "decorativeBlock": {
       "type": "minecraft:weighted_state_provider",
