@@ -1,5 +1,5 @@
 {
-  "feature": "molten_vents:diamond_vent",
+  "feature": "scavengerhr_mvao:diamond_vent",
   "placement": [
     {
       "type": "minecraft:rarity_filter",
@@ -12,7 +12,6 @@
       "type": "minecraft:heightmap",
       "heightmap": "WORLD_SURFACE_WG"
     },
-
     {
       "type": "minecraft:biome"
     }

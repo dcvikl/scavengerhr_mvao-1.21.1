@@ -1,20 +1,26 @@
 {
-  "type": "scavengerhr_mvao:molten_vent",
+  "type": "molten_vents:molten_vent",
   "config": {
     "decorativeBlock": {
       "type": "minecraft:weighted_state_provider",
       "entries": [
         {
-          "weight": 3,
+          "weight": 4,
           "data": {
-            "Name": "minecraft:diamond_block"
+            "Name": "minecraft:heavy_core"
           }
         },
         {
-          "weight": 7,
+          "weight": 4,
           "data": {
             "Name": "minecraft:beacon"
           }
+        },
+        {
+            "weight": 8,
+            "data": {
+                "Name": "minecraft:polished_deepslate_slab"
+            }
         }
       ]
     },
@@ -22,13 +28,25 @@
       "type": "minecraft:weighted_state_provider",
       "entries": [
         {
-          "weight": 2,
+          "weight": 5,
           "data": {
-            "Name": "minecraft:deepslate_diamond_ore"
+            "Name" : "minecraft:deepslate"
           }
         },
         {
-          "weight": 8,
+            "weight": 7,
+            "data": {
+                "Name": "minecraft:stone"
+            }
+        },
+        {
+            "weight": 5,
+            "data": {
+                "Name": "minecraft:cobbled_deepslate"
+            }
+        },
+        {
+          "weight": 1,
           "data": {
             "Name": "minecraft:diamond_ore"
           }
@@ -38,7 +56,7 @@
     "innerBlock": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "scavengerhr_mvao:dormant_molten_diamond"
+        "Name": "molten_vents:dormant_molten_diamond"
       }
     },
     "liquidBlock": {

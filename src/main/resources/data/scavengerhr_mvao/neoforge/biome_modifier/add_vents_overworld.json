@@ -1,6 +1,8 @@
 {
   "type": "neoforge:add_features",
   "biomes": "#minecraft:is_overworld",
-  "features": ["scavengerhr_mvao:diamond_vent"],
+  "features": [
+    "scavengerhr_mvao:diamond_vent"
+  ],
   "step": "vegetal_decoration"
 }

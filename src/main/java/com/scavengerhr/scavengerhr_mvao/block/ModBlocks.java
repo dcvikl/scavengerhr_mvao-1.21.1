@@ -21,6 +21,7 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(3f)
                     .requiresCorrectToolForDrops()
+                    .lightLevel(set -> 15)
                     .sound(SoundType.DEEPSLATE)));
 
     public static final DeferredBlock<Block> DORMANT_MOLTEN_DIAMOND = registerBlock("dormant_molten_diamond",
