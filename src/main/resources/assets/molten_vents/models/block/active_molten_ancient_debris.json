@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "scavengerhr_mvao:block/active_molten_ancient_debris_top",
+    "side": "scavengerhr_mvao:block/active_molten_ancient_debris_side"
+  },
+  "render_type": "solid"
+}

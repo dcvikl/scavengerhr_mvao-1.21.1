@@ -1,8 +1,7 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "scavengerhr_mvao:block/dormant_molten_diamond",
-    "particle": "scavengerhr_mvao:block/dormant_molten_diamond"
+    "all": "scavengerhr_mvao:block/dormant_molten_diamond"
   },
   "render_type": "solid"
 }

@@ -2,7 +2,7 @@
   "parent": "minecraft:block/cube_all",
   "textures": {
     "all": "scavengerhr_mvao:block/active_molten_diamond",
-    "particle": "scavengerhr_mvao:block/active_molten_diamond"
+    "particle": "minecraft:particle/lava"
   },
   "render_type": "solid"
 }

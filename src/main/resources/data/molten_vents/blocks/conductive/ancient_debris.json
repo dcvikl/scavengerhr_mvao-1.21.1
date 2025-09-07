@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ancient_debris",
+    "scavengerhr_mvao:dormant_molten_ancient_debris",
+    "scavengerhr_mvao:active_molten_ancient_debris"
+  ]
+}

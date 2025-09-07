@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": [
+    "scavengerhr_mvao:ancient_debris_vent"
+  ],
+  "step": "vegetal_decoration"
+}
